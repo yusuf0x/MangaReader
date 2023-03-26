@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/gradient.xml" value="0.126" />
+        <entry key="app/src/main/res/drawable/ic_add_fab.xml" value="0.1035" />
+        <entry key="app/src/main/res/drawable/ic_add_to_lib.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_browse.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_chapter_stack.xml" value="0.2155" />
+        <entry key="app/src/main/res/drawable/ic_check.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_filter.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_genre.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_github.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_library.xml" value="0.2155" />
+        <entry key="app/src/main/res/drawable/ic_remove.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_setting.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_sort.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_theme_circle.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_theme_mode_auto.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_theme_mode_light.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_theme_mode_night.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_theme_option.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/tab_indicator.xml" value="0.3575" />
+        <entry key="app/src/main/res/font/nunito_sans.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_manga_details.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_read.xml" value="0.15648148148148147" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/chapter_sheet.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/layout/chapter_sheet1.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/filter_sheet.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/filter_sheet1.xml" value="0.30185185185185187" />
+        <entry key="app/src/main/res/layout/fragment_browse.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_library.xml" value="0.12751677852348994" />
+        <entry key="app/src/main/res/layout/fragment_manga_ar_search.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_manga_arabic_library.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_manga_browse.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/layout/fragment_manga_en_search.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_manga_english_library.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_novel_browse.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.2759259259259259" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_study.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/item_accent.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/item_chapter.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/layout/item_genre.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/item_manga.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_page.xml" value="0.15404699738903394" />
+        <entry key="app/src/main/res/layout/item_tag.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/bottom_menu_nav.xml" value="0.35625" />
+        <entry key="app/src/main/res/menu/bottom_nav_bar.xml" value="0.35625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
